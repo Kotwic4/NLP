@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# tasks
+/ustawy
+/polimorfologik-2.1
