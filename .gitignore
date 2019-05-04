@@ -106,3 +106,4 @@ venv.bak/
 # tasks
 /ustawy
 /polimorfologik-2.1
+*.w2v.txt
